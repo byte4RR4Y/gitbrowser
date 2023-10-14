@@ -5,7 +5,7 @@ import git
 import os
 
 # Ihr persönlicher GitHub-Zugriffstoken
-access_token = "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"
+access_token = "github api token"
 
 # Funktion zum Suchen von Kodi-Addons auf GitHub mit paginierter Abfrage
 def search_github_addons():
