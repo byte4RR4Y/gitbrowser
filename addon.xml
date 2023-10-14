@@ -1,0 +1,17 @@
+<addon id="plugin.program.mygitaddon" version="1.0.0" name="My Git Addon">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="main.py">
+    <provides>program</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language>en</language>
+    <summary>My Git Addon</summary>
+    <description>Simple Kodi Addon to clone a Git repository.</description>
+    <disclaimer>Use at your own risk.</disclaimer>
+    <forum>https://forum.kodi.tv/showthread.php?tid=12345</forum>
+    <source>https://github.com/byte4rr4y/mygitaddon</source>
+  </extension>
+</addon>
