@@ -1,4 +1,4 @@
-<addon id="plugin.program.mygitaddon" version="1.0.0" name="My Git Addon">
+<addon id="gitbrowser" version="1.0.0" name="Git Browser">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
